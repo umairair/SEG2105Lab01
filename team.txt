@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Erik
+=======
+<<<<<<< HEAD
+Joel B.
+=======
+Liban
+>>>>>>> 19853a41c7ffebf7abb37a9dca7892d46b76c911
+>>>>>>> a62b8d4aa79f0804a39070f25d599fae8031560d
